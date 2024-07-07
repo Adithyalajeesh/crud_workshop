@@ -20,7 +20,7 @@ A simple Flutter CRUD application demonstrating Bloc and Clean Architecture prin
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/flutter-crud-bloc-clean.git
+    git clone [https://github.com/Adithyalajeesh/crud_workshop].git
     cd flutter-crud-bloc-clean
     ```
 
